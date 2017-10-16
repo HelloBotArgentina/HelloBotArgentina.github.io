@@ -20,3 +20,28 @@ Documentar los bloques personalizados creados a partir de la librería [Blockly]
 
 * Parámetros de entrada:
   * Cantidad de rostros a detectar
+
+
+&nbsp;
+
+![Deteccion de palabras](/images/detectarPalabra.png)
+
+* Parámetros de entrada:
+  * Palabra a detectar
+  * Cantidad de veces a detectar la misma
+  
+
+&nbsp;
+
+![Binary](/images/binary.png)
+
+* Parámetros de entrada:
+  * Binario de un dígito
+  
+
+&nbsp;
+
+![Boolean](/images/boolean.png)
+
+* Parámetros de entrada:
+  * Verdadero o falso
