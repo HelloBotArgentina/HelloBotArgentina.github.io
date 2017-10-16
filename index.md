@@ -8,7 +8,7 @@ Documentar los bloques personalizados crados a partir de la librería [Blockly](
 
 #### Bloques de Eventos
 
-[Detección de rostros]: https://github.com/HelloBotArgentina/HelloBotArgentina.github.io/tree/master/images/detectarRostro.png
+![Detección de rostros] (/images/detectarRostro.png)
 
-*Parámetros de entrada:
-  *Cantidad de rostros a detectar
+* Parámetros de entrada:
+  * Cantidad de rostros a detectar
