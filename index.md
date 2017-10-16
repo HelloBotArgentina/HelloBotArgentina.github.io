@@ -15,6 +15,7 @@ Documentar los bloques personalizados creados a partir de la librería [Blockly]
 
 
 &nbsp;
+
 ![Detección de rostros](/images/detectarRostro.png)
 
 * Parámetros de entrada:
